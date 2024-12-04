@@ -1,0 +1,139 @@
+---
+title: "Lab 7.2 - Controlling the axes"
+date: "111022 | Data management and visualization with R"
+author: 
+  - "Aitor Ameztegui"
+bibliography: "references/biblio.bib"
+output:
+  rmdformats::readthedown:
+  highlight: pygments
+number_sections: true
+css: lab.css
+# runtime: shiny_prerendered
+---
+  
+  
+```{r knitr_init, echo=FALSE, cache=FALSE, warning=FALSE}
+
+library(knitr)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=TRUE,
+               cache=FALSE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+
+```{r include=FALSE}
+library(tidyverse)
+
+options(
+  htmltools.dir.version = FALSE, # for blogdown
+  show.signif.stars = FALSE     # for regression output
+)
+fires <- read.csv('data/fires.csv')
+load('data/data_SNFI3.Rdata')
+pines <- trees %>% filter(Species %in% c("021","022","023","024","025","026","027","028")) 
+
+```
+
+
+In `ggplot` we can adapt and modify any element of a figure, including the appearance of the axes. One of the most frequent changes is to expressly define the limits of the axes, either to be able to focus on a certain part of the plot, or to make sure that the axis, for example, goes to 0. There are mainly two ways of defining the axis limits, but they all have the same consequence: values beyond the limits we set will not be plotted (and `ggplot2` will warn us about this)
+
+- `xlim()` and `ylim()`
+- `scale_x_continuous()` and `scale_y_continuous()`
+
+# Setting the limits of an axis with `xlim()` and `ylim()`
+
+We can pass a vector with the limits to either `xlim()` or `ylim()`, as anopther layer to the plot:
+
+```{r}
+library(patchwork)
+p1 <- pines %>%
+  ggplot(aes(x = DBH_3, y = Species)) +
+  geom_boxplot()
+
+p2 <- pines %>%
+  ggplot(aes(x = DBH_3, y = Species)) +
+  geom_boxplot() +
+  xlim(c(0,40))
+
+p1 + p2
+
+```
+
+> Note that we are not filtering out records outside the limits but rather not showing them
+
+The alternative is using `scale_x_continuous()` and `scale_y_continuous()`, and define the limits inside. But let's take a closer look into these functions and what functionalities they provide.
+
+# Use scale_*() functions
+
+The `scale_*()` functions (`scale_x_continous()` and so on) are perhaps the most flexible way to manipulate axis since they bring in several utilities like:
+  
+- `name`: to modify the titles of the axes
+- `breaks`: controls where the marks, grid lines, labels... of the axes are placed. We can pass a vector of values to define it
+- `labels`: to modify the label that will appear next to the marks. We can define a character vector to specify the values.
+- `limits`: a numeric vector to specify the minimum and maximum of x or y.
+- `trans`: to perform transformations of the axis units (log, sqrt2, log10...).
+
+There are several ways of defining the axes, depending on whether it is `x` or `y`, and whether the variable is continuous or not: `scale_x_continuous()`, `scale_y_continuous()`, `scale_x_discrete()`, `scale_y_discrete()`...
+
+
+## Setting the limits
+
+We must provide the vector with the limits within the `scale_x_**()` layer, as we can see here:
+
+```{r}
+pines %>%
+    ggplot(aes(x = DBH_3, y = Species)) +
+    geom_boxplot() +
+    scale_x_continuous(limits=c(0,50))
+```
+
+## Axis transformations
+
+We have seen how to transform a variable *on the fly* when applying `log()` to a variable. That's an option, but we can apply the transformation on the axes instead with `trans`. For example, let's use `scale_*` to logarithmically transform the diametric distributions:
+
+```{r}
+pines %>%
+    ggplot(aes(x = DBH_3, y = Species)) +
+    geom_boxplot() +
+    scale_x_continuous(trans = "log10")
+```
+
+## Axis labels and ticks
+
+We can also use scale_* to define the diameter classes we want to display and their names, using `breaks` and `labels` options.
+
+```{r}
+pines %>%
+    ggplot(aes(x = DBH_3, y = Species)) +
+    geom_boxplot() +
+    scale_x_continuous(breaks = c(15,30,45,60,75),
+                       labels = c("very small", "small", "medium", "big", "very big"))
+```
+
+Of course, we can combine all the options of scale_*, and even add the axes name label:
+
+```{r}
+pines %>%
+    ggplot(aes(x = DBH_3, y = Species)) +
+    geom_boxplot() +
+    scale_x_continuous(breaks = c(15,30,45,60,75, 100),
+                       name = "Diameter at breast heigh") +
+    scale_y_discrete(labels = c("P.sylvestris", "P.uncinata",
+                                "P. radiata","P.halepensis", "P.nigra", "P.pinea", "P.pinaster"))
+```
+::: exercise :::
+
+**EXERCISE 1** </br>
+
+Modify the figure taht you created in the previous lab, marking on the x-axis the seasons (instead of the months) and naming the x-axis as "Season" and the y-axis as "Number of Fires".
+
+:::
