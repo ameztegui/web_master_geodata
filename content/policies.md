@@ -1,5 +1,5 @@
 ---
-title: "Policies"
+title: "Incripción e Información"
 markup: "mmark"
 ---
 
