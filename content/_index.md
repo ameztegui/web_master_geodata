@@ -1,6 +1,6 @@
 ---
 title: "Especialización en Ciencia de datos geográficos"
-description: "Parrafo descriptivo del master "
+description: "El objetivo principal de este programa es proporcionar formación especializada en el manejo de grandes volúmenes de datos geográficos cuyo tamaño, complejidad y progresión en volumen, dificultan su gestión y análisis con herramientas convencionales. El uso de herramientas de programación de libre acceso facilita soluciones accesibles para el tratamiento de la información, siempre que se usen estrategias adecuadas y adaptadas al problema, siendo destrezas muy valiosas para el desempeño profesional."
 
 markup: "mmark"
 ---
