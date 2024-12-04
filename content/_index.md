@@ -12,8 +12,8 @@ markup: "mmark"
 
 {.table .table-condensed .table-striped .text-left}
 <span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
-------------------|-------------------|------------------|------------------|------------------ 
- [Marcos Rodrigues](http://ameztegui.weebly.com/) | <a href="mailto:rmarcos@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> |
+------------------|-------------------|------------------|------------------|------------------ |
+ [Marcos Rodrigues](http://ameztegui.weebly.com/) | <a href="mailto:rmarcos@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp;| <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; |  <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp; | <a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> |
 
  [Roberto Serrano](http://ameztegui.weebly.com/) | <a href="mailto:roberto.serrano@unizar.es
 " title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> |
