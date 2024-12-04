@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Data Management and Visualization with R"
+title = "Especialización en Ciencia de datos geográficos"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [author]
   name = "Aitor Ameztegui"
   bio = ""
-  job = "Researcher/Lecturer"
+  job = "Associate Professor"
   location = "University of Lleida"
   gravatarEmail = "aitor.ameztegui@eagrof.udl.cat"
   # Your profile picture
@@ -32,28 +32,27 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "Inicio"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
   identifier = "syllabus"
-  name = "Syllabus"
+  name = "Plan de estudios"
   pre = "<i class=\"material-icons\">date_range</i>"
   url = "/syllabus"
 [[menu.main]]
   weight = 3
   identifier = "policies"
-  name = "Policies"
+  name = "Información"
   pre = "<i class=\"material-icons\">gavel</i>"
   url = "/policies"
 [[menu.main]]
   weight = 4
-  identifier = "rstudio"
-  name = "RStudio Cloud"
-  pre = "<i class=\"material-icons\">cloud_queue</i>"
-  url = "https://rstudio.cloud/spaces/27211/join?access_code=aHODPtNn5L3JspKWeCMOnmC94jEBRM%2FmVJfm4p4t"
-
+  identifier = "preinscripcion"
+  name = "Preinscripción"
+  pre = "<i class=\"material-icons\">gavel</i>"
+  url = "/preinscripcion"
 
 
 [[menu.footer]]
