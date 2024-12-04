@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*key.R
+*.key
+*exam*
+.httr-oauth
+*solved*
+*resolution*
+*public/exam/*
+*static/exam/*
+*midterm*
