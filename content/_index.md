@@ -13,26 +13,29 @@ markup: "mmark"
 {.table .table-condensed .table-striped .text-left}
 <span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|-------------------|------------------|------------------|------------------ 
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+ [Marcos Rodrigues](http://ameztegui.weebly.com/) | <a href="mailto:rmarcos@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> 
 
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+ [Roberto Serrano](http://ameztegui.weebly.com/) | <a href="mailto:roberto.serrano@unizar.es
+" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> 
 
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
-
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
-
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
-
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
-
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
-
- [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
-
-
-
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a>
                 
-
+ [Samuel Esteban](http://ameztegui.weebly.com/) | <a href="mailto:sestebanr@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> 
+ 
+  [Pere Gelabert](http://ameztegui.weebly.com/) | <a href="mailto:perejoan.gelabert@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a>
+  
+  [Víctor Granda](http://ameztegui.weebly.com/) | <a href="mailto:v.granda@creaf.uab.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> 
+  
+  [Martín de Luis](http://ameztegui.weebly.com/) | <a href="mailto:mdla@unizar.es
+" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> 
+    
+  [Dhais Peña](http://ameztegui.weebly.com/) | <a href="mailto:dpa@unizar.es
+" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> 
+ 
+   [Dominic Royé](http://ameztegui.weebly.com/) | <a href="mailto:dominic.roye@ficlima.org" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> 
+   
+  
+  
 ### Bibliografía
 
 Algunos ejemplos de bibliografía
