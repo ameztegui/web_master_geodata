@@ -1,25 +1,41 @@
 ---
-title: "111022: Data Management and Visualization with R"
-description: "Introductory course on data science, focused on the collection, management, visualization and analysis of data. We cover the entire data science pipeline from data acquisition to publication. The course will focus on the R statistical computing language and is addressed to second-year students of the Master's Degree Erasmus Mundus in Spatial and Ecological Modelling in European Forestry at the University of Lleida. The aim is to teach the students how to use R to effectively manage, clean, analyze and visualize data. The course is based on a “hands-on” approach, so that the students can easily transfer the acquired knowledge to real case studies, and even use it to process and analyze their own set of data, helping them in the preparation of their Master Thesis. "
+title: "Especialización en Ciencia de datos geográficos"
+description: "Parrafo descriptivo del master "
 
 markup: "mmark"
 ---
 
-## Course info
+## Información práctica
 
 
-### Teaching team and office hours
+### Profesorado
 
 {.table .table-condensed .table-striped .text-left}
 <span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|-------------------|------------------|------------------|------------------ 
  [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
 
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+
+ [Aitor Ameztegui](http://ameztegui.weebly.com/) | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>  &nbsp;<a href="tel:973702539" title="Telephone"><i class="fa fa-phone"></i></a> | upon request | Building 4 - Office 2.04.2
+
+
+
                 
 
-### Texts
+### Bibliografía
 
-These are the main texts used to prepare this course. All of them are either freely available, or available for loan in the library of the University of Lleida.
+Algunos ejemplos de bibliografía
 
 {.table .table-condensed .table-striped .text-left}
  <span></span>     | <span></span> | <span></span> 
