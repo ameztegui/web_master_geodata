@@ -3,8 +3,6 @@ title: "Preinscripción"
 markup: "mmark"
 ---
 
-### Preinscripción:
-
 En este enlace encontrará información general sobre la titulación:
 
 https://sia.unizar.es/cowep/control/consultaEPDetalle?entradaPublica=true&idioma=es.ES&codEp=1957&edicion=1

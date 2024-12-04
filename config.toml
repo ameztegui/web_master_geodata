@@ -45,13 +45,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = 3
   identifier = "policies"
   name = "Información"
-  pre = "<i class=\"material-icons\">gavel</i>"
+  pre = "<i class=\"material-icons\">info</i>"
   url = "/policies"
 [[menu.main]]
   weight = 4
   identifier = "preinscripcion"
   name = "Preinscripción"
-  pre = "<i class=\"material-icons\">gavel</i>"
+  pre = "<i class=\"material-icons\">checklist_rtl</i>"
   url = "/preinscripcion"
 
 
