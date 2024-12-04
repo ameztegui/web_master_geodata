@@ -2,6 +2,26 @@
 title: "Información"
 markup: "mmark"
 ---
+### Contenido del Programa
+
+El programa de Especialización en Ciencia de datos geográficos está estructurado en 4 módulos:
+
+#### **Ciencia de datos e información espacial** (10 horas): 
+
+Introducción a la ciencia de datos en el marco de la información geográfica y desde las necesidades, demandas y oportunidades que brinda la Geografía y ciencias afines. Se proporcionan los conceptos básicos sobre la información geográfica y su integración en los proyectos de ciencia de datos, para los que es necesario el manejo de herramientas específicas.
+
+#### **Fundamentos de R** (120 horas)
+
+R es un lenguaje de programación enfocado al análisis estadístico, pero la enorme variedad de paquetes de funciones de código abierto, le posibilitan para su uso como un SIG avanzado con el que aplicar funciones de análisis espacial y visualización. En esta asignatura se aportarán los fundamentos básicos del lenguaje para un tratamiento básico de la información geográfica y su visualización. Una parte de la formación en estadística es básica para aplicar correctamente las instrucciones en formato de script.
+
+#### **Aplicaciones y modelos en entorno R** (160 horas)
+
+Se progresará en el análisis de casos de estudio relacionados con la información geográfica. Desde el análisis espacial propio de un SIG, pero con las posibilidades aprendidas en módulos anteriores, se avanzará en la generación y aplicación de modelos basados en inteligencia artificial para solucionar problemas territoriales derivados de los datos con base espacial.
+
+#### **Aplicaciones y desarrollos en entorno R** (50 horas)
+
+Se profundizará en la gestión de proyectos en entornos de trabajo colaborativos y con volúmenes de datos que exceden las capacidades de las herramientas tradicionales. Se aprenden estrategias de intercambio de flujos de trabajo y de resultados. Se introduce al uso de la computación de alto rendimiento para la reducción de datos en los resultados finales.
+
 
 ### Métodos de aprendizaje:
 
