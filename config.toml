@@ -21,9 +21,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [author]
   name = "Aitor Ameztegui"
   bio = ""
-  job = "Associate Professor"
-  location = "University of Lleida"
-  gravatarEmail = "aitor.ameztegui@eagrof.udl.cat"
+  job = "Profesor Agregado"
+  location = "Universitat de Lleida"
+  gravatarEmail = "aitor.ameztegui@udl.cat"
   # Your profile picture
 #  picture = ""º
   twitter = "multivac42"
@@ -58,20 +58,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.footer]]
   weight = 1
   identifier = "Lleida"
-  name = "University of Lleida"
+  name = "Universidad de Zaragoza"
   pre = "<i class='fa fa-university fa-lg'></i>"
-  url = "http://udl.cat/"
+  url = "https://www.unizar.es/"
 [[menu.footer]]
   weight = 2
-  name = "RStudio Cloud"
+  name = "Preinscripción"
   pre = "<i class=\"icon-rlogo\" style=\"font-size:150%\"></i>"
-  url = "https://rstudio.cloud/spaces/27211/join?access_code=aHODPtNn5L3JspKWeCMOnmC94jEBRM%2FmVJfm4p4t"
+  url = "https://geodataunizar.netlify.app/preinscripcion/"
 [[menu.footer]]
   weight = 3
   identifier = "GitHub"
   name = "GitHub"
   pre = "<i class=\"button-icon fa fa-2x fa-github\"></i>"
-  url = "https://github.com/ameztegui/111022_data_management_visualization"
+  url = "https://github.com/ameztegui/web_master_geodata"
 [[menu.footer]]
 
 
