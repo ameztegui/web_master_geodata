@@ -52,7 +52,7 @@ Habrá dos exámenes parciales que se deberán realizar individualmente. En cada
 
 Rrecomendamos encarecidamente que aprendas a obtener ayuda de la comunidad R. También puedes utilizar la herramienta del foro. Si algunos conceptos no son totalmente comprendidos por la mayoría de vosotros, podemos organizar tutorías virtuales.
 
-### Evaluación:
+### Evaluación
 
 
 
