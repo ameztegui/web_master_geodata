@@ -1,5 +1,5 @@
 ---
-title: "Especialización en Ciencia de datos geográficos"
+title: "Diploma de Especialización en Ciencia de datos geográficos"
 description: "El objetivo principal de este programa es proporcionar formación especializada en el manejo de grandes volúmenes de datos geográficos cuyo tamaño, complejidad y progresión en volumen, dificultan su gestión y análisis con herramientas convencionales. El uso de herramientas de programación de libre acceso facilita soluciones accesibles para el tratamiento de la información, siempre que se usen estrategias adecuadas y adaptadas al problema, siendo destrezas muy valiosas para el desempeño profesional."
 
 markup: "mmark"
@@ -39,4 +39,5 @@ Algunos ejemplos de bibliografía
 [Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) | Wilson et al. | PLoS Computational Biology 2016 
 
 
+### Entidades participantes
 
