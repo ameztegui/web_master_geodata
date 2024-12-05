@@ -46,7 +46,7 @@ Además de las actividades en clase, a lo largo del semestre se le asignarán ta
 
 #### **Exámenes**
 
-Habrá dos exámenes parciales que se deberán realizar individualmente. En cada examen se os pedirá que realicéis una serie de pequeñas tareas de programación y/o análisis relacionadas con el material presentado en el curso. La estructura y el contenido exactos de los exámenes se discutirán con más detalle antes de asignarlos.
+Podrá haber exámenes parciales que se deberán realizar individualmente. En cada examen se pedirá que realicéis una serie de pequeñas tareas de programación y/o análisis relacionadas con el material presentado en el curso. La estructura y el contenido exactos de los exámenes se discutirán con más detalle antes de asignarlos.
 
 ####  **Tutorías** 
 
@@ -54,5 +54,5 @@ Rrecomendamos encarecidamente que aprendas a obtener ayuda de la comunidad R. Ta
 
 ### Evaluación
 
-
+El sistema de evaluación lo determinará el profesorado para cada uno de los módulos.
 
