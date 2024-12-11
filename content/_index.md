@@ -30,24 +30,17 @@ editor_options:
 
 Algunos ejemplos de bibliografía
 
-{.table .table-condensed .table-striped .text-left} \| \|
------------\|---------------------------------\|----------------------------------
-[R for Data Science](http://r4ds.had.co.nz/) \| Grolemund, Wickham \|
-O'Reilly, 2016 [Data visualization: a practical
-introduction](https://kieranhealy.org/publications/dataviz/) \| Healy \|
-O'Reilly, 2019 [Fundamentals of Data Visualization: A Primer on Making
-Informative and Compelling Figures](https://serialmentor.com/dataviz/)
-\| Wilke \| O'Reilly, 2019 [The Functional Art: An introduction to
-information graphics and
-visualization](http://www.thefunctionalart.com/) \| Cairo \| New Riders
-Publishing, 2012 [The truthful Art: Data, Charts, and Maps for
-Communication](https://www.amazon.es/Truthful-Art-Data-Charts-Communication/dp/0321934075)
-\| Cairo \| New Riders Publishing, 2016 [Making data visual: a practical
-guide to using visualization for
-insight](https://www.amazon.com/Making-Data-Visual-Practical-Visualization/dp/1491928468)
-\| Fisher , Meyer \| O'Reilly, 2019 [Good Enough Practices in Scientific
-Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
-\| Wilson et al. \| PLoS Computational Biology 2016
+{.table .table-condensed .table-striped .text-left}
+ <span></span>     | <span></span> | <span></span> 
+-----------|---------------------------------|----------------------------------
+[R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | O'Reilly, 2016
+[Data visualization: a practical introduction](https://kieranhealy.org/publications/dataviz/) | Healy | O’Reilly, 2019
+[Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://serialmentor.com/dataviz/) | Wilke | O’Reilly, 2019
+[The Functional Art: An introduction to information graphics and visualization](http://www.thefunctionalart.com/) | Cairo | New Riders Publishing, 2012
+[The truthful Art: Data, Charts, and Maps for Communication](https://www.amazon.es/Truthful-Art-Data-Charts-Communication/dp/0321934075) | Cairo | New Riders Publishing, 2016
+[Making data visual: a practical guide to using visualization for insight](https://www.amazon.com/Making-Data-Visual-Practical-Visualization/dp/1491928468) | Fisher , Meyer |  O’Reilly, 2019
+[Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) | Wilson et al. | PLoS Computational Biology 2016 
+
 
 ### Entidades participantes
 
