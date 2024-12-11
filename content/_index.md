@@ -17,7 +17,7 @@ editor_options:
 
 {.table .table-condensed .table-striped .text-left}
 <span></span>       | <span></span>     | <span></span>    | <span></span>    
---------------------|-------------------|------------------|------------------
+  --------------------|-------------------|------------------|------------------
 [Marcos Rodrigues](http://geografia.unizar.es/personal/marcos-rodrigues-mimbrero) | Universidad de Zaragoza        | <a href="mailto:rmarcos@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/rmarcosgit" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/krestatheklown" title="Twitter"><i class="fa fa-twitter"></i></a> | Director
 [Roberto Serrano](http://geografia.unizar.es/personal/roberto-serrano-notivoli) | Universidad de Zaragoza | <a href="mailto:roberto.serrano@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/rsnotivol" title="GitHub"><i class="fa fa-github"></i></a> | Codirector
 [Aitor Ameztegui](https://amezteguilab.wordpress.com/) | Universitat de Lleida | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://x.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a> |
@@ -27,14 +27,14 @@ editor_options:
 [Martín de Luis](http://geografia.unizar.es/personal/martin-de-luis-arrillaga) | Universidad de Zaragoza | <a href="mailto:mdla@unizar.es" title="email"><i class="fa fa-envelope"></i></a> |  
 [Dhais Peña](http://geografia.unizar.es/personal/dhais-pena-angulo) | Universidad de Zaragoza | <a href="mailto:dpa@unizar.es" title="email"><i class="fa fa-envelope"></i></a>  &nbsp; <a href="https://x.com/dhaispa?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a> |  
 [Dominic Royé](https://www.linkedin.com/in/dominicroye) | Fundación para la Investigación del Clima | <a href="mailto:dominic.roye@ficlima.org" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/dominicroye" title="GitHub"><i class="fa fa-github"></i></a>&nbsp; <a href="https://x.com/dr_xeo?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a> |   |
-  
-
+                
+                
 ### Bibliografía
 
 Algunos ejemplos de bibliografía
 
 {.table .table-condensed .table-striped .text-left}
- <span></span>     | <span></span> | <span></span> 
+<span></span>     | <span></span> | <span></span> 
 -----------|---------------------------------|----------------------------------
 [R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | O'Reilly, 2016
 [Data visualization: a practical introduction](https://kieranhealy.org/publications/dataviz/) | Healy | O’Reilly, 2019
@@ -47,8 +47,10 @@ Algunos ejemplos de bibliografía
 
 ### Entidades participantes
 
-![](img/logo.png)
-![](img/logo_unizar.png)
-![](img/logo_udl.png)
-![](img/logo_CREAF.jpg)
-![](img/logo_fic.png)
+![](images/logo_unizar.png){width="420"}
+
+![](images/logo_udl.png){width="352"}
+
+![](images/logo_CREAF.jpg){width="378"}
+
+![](images/logo_fic.png)
