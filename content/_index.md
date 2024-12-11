@@ -11,67 +11,20 @@ editor_options:
 
 ### Profesorado
 
-{.table .table-condensed .table-striped .text-left} \| \| \| \
---------------------\|-------------------\|------------------\|------------------
-[Marcos
-Rodrigues](http://geografia.unizar.es/personal/marcos-rodrigues-mimbrero)
-\| Universidad de Zaragoza \|
-<a href="mailto:rmarcos@unizar.es" title="email"><i class="fa fa-envelope"></i></a>
- 
-<a href="https://github.com/rmarcosgit" title="GitHub"><i class="fa fa-github"></i></a>
- 
-<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/krestatheklown" title="Twitter"><i class="fa fa-twitter"></i></a>
-\| Director [Roberto
-Serrano](http://geografia.unizar.es/personal/roberto-serrano-notivoli)
-\| Universidad de Zaragoza \|
-<a href="mailto:roberto.serrano@unizar.es" title="email"><i class="fa fa-envelope"></i></a>
- 
-<a href="https://github.com/rsnotivol" title="GitHub"><i class="fa fa-github"></i></a>
-\| Codirector [Aitor Ameztegui](https://amezteguilab.wordpress.com/) \|
-Universitat de Lleida \|
-<a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a>
- 
-<a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a>
- 
-<a href="https://x.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a>
-\| [Samuel
-Esteban](http://geografia.unizar.es/personal/samuel-esteban-rodriguez)
-\| Universidad de Zaragoza \|
-<a href="mailto:mailto:sestebanr@unizar.es" title="email"><i class="fa fa-envelope"></i></a>
-  <a href="" title="GitHub"><i class="fa fa-github"></i></a> \|\
-[Pere Gelabert](https://pjgelabert.netlify.app/) \| Universitat de
-Lleida \|
-<a href="mailto:perejoan.gelabert@udl.cat" title="email"><i class="fa fa-envelope"></i></a>
- 
-<a href="https://github.com/scsibs" title="GitHub"><i class="fa fa-github"></i></a>
- 
-<a href="https://x.com/pere_gelabert?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a>
-\| [Víctor
-Granda](https://www.creaf.cat/es/sobre-nosotros/nuestra-gente/victor-granda-garcia)
-\| CREAF \|
-<a href="mailto:v.granda@creaf.uab.cat" title="email"><i class="fa fa-envelope"></i></a>
- 
-<a href="https://github.com/MalditoBarbudo" title="GitHub"><i class="fa fa-github"></i></a>
- 
-<a href="https://x.com/malditobarbudo?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a>
-\| [Martín de
-Luis](http://geografia.unizar.es/personal/martin-de-luis-arrillaga) \|
-Universidad de Zaragoza \|
-<a href="mailto:mdla@unizar.es" title="email"><i class="fa fa-envelope"></i></a>
-\|\
-[Dhais Peña](http://geografia.unizar.es/personal/dhais-pena-angulo) \|
-Universidad de Zaragoza \|
-<a href="mailto:dpa@unizar.es" title="email"><i class="fa fa-envelope"></i></a>
- 
-<a href="https://x.com/dhaispa?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a>
-\|\
-[Dominic Royé](https://www.linkedin.com/in/dominicroye) \| Fundación
-para la Investigación del Clima \|
-<a href="mailto:dominic.roye@ficlima.org" title="email"><i class="fa fa-envelope"></i></a>
- 
-<a href="https://github.com/dominicroye" title="GitHub"><i class="fa fa-github"></i></a> 
-<a href="https://x.com/dr_xeo?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a>
-\| \|
+
+{.table .table-condensed .table-striped .text-left}
+<span></span>       | <span></span>     | <span></span>    | <span></span>    
+--------------------|-------------------|------------------|------------------
+[Marcos Rodrigues](http://geografia.unizar.es/personal/marcos-rodrigues-mimbrero) | Universidad de Zaragoza        | <a href="mailto:rmarcos@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/rmarcosgit" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/krestatheklown" title="Twitter"><i class="fa fa-twitter"></i></a> | Director
+[Roberto Serrano](http://geografia.unizar.es/personal/roberto-serrano-notivoli) | Universidad de Zaragoza | <a href="mailto:roberto.serrano@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/rsnotivol" title="GitHub"><i class="fa fa-github"></i></a> | Codirector
+[Aitor Ameztegui](https://amezteguilab.wordpress.com/) | Universitat de Lleida | <a href="mailto:aitor.ameztegui@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ameztegui" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://x.com/multivac42" title="Twitter"><i class="fa fa-twitter"></i></a> |
+[Samuel Esteban](http://geografia.unizar.es/personal/samuel-esteban-rodriguez) | Universidad de Zaragoza | <a href="mailto:mailto:sestebanr@unizar.es" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="" title="GitHub"><i class="fa fa-github"></i></a> |  
+[Pere Gelabert](https://pjgelabert.netlify.app/) | Universitat de Lleida | <a href="mailto:perejoan.gelabert@udl.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/scsibs" title="GitHub"><i class="fa fa-github"></i></a>  &nbsp; <a href="https://x.com/pere_gelabert?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a> | 
+[Víctor Granda](https://www.creaf.cat/es/sobre-nosotros/nuestra-gente/victor-granda-garcia) | CREAF |  <a href="mailto:v.granda@creaf.uab.cat" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/MalditoBarbudo" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://x.com/malditobarbudo?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a> | 
+[Martín de Luis](http://geografia.unizar.es/personal/martin-de-luis-arrillaga) | Universidad de Zaragoza | <a href="mailto:mdla@unizar.es" title="email"><i class="fa fa-envelope"></i></a> |  
+[Dhais Peña](http://geografia.unizar.es/personal/dhais-pena-angulo) | Universidad de Zaragoza | <a href="mailto:dpa@unizar.es" title="email"><i class="fa fa-envelope"></i></a>  &nbsp; <a href="https://x.com/dhaispa?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a> |  
+[Dominic Royé](https://www.linkedin.com/in/dominicroye) | Fundación para la Investigación del Clima | <a href="mailto:dominic.roye@ficlima.org" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/dominicroye" title="GitHub"><i class="fa fa-github"></i></a>&nbsp; <a href="https://x.com/dr_xeo?lang=es" title="Twitter"><i class="fa fa-twitter"></i></a> |   |
+  
 
 ### Bibliografía
 
@@ -100,6 +53,6 @@ Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcb
 
 |                          |                             |                                       |
 |--------------------------|-----------------------------|---------------------------------------|
-|                          | ![](images/logo_unizar.png) |                                       |
-| ![](images/logo_udl.png) | ![](images/logo_CREAF.jpg)  | ![](images/logo_fic.png){width="140"} |
-|                          |                             |                                       |
+|                          | ![](images/logo_unizar.png){width="140"} |                                       |
+| ![](images/logo_udl.png){width="140"} | ![](images/logo_CREAF.jpg){width="140"}  | ![](images/logo_fic.png){width="140"} |
+|                          |                              |                                       |
