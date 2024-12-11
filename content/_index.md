@@ -5,9 +5,7 @@ markup: "mmark"
 editor_options: 
   markdown: 
     wrap: 72
-output:
-    include:
-      before_body: images/logo.png
+
 ---
 
 
