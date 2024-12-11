@@ -7,7 +7,7 @@ editor_options:
     wrap: 72
 ---
 
-![](images/logo.jpeg)
+
 
 
 ## Información práctica
@@ -47,8 +47,4 @@ Algunos ejemplos de bibliografía
 
 ### Entidades participantes
 
-|                          |                             |                                       |
-|--------------------------|-----------------------------|---------------------------------------|
-|                          | ![](images/logo_unizar.png){width="140px"} |                                       |
-| ![](images/logo_udl.png){width="140px"} | ![](images/logo_CREAF.jpg){width="140px"}  | ![](images/logo_fic.png){width="140px"} |
-|                          |                              |                                       |
+![](images/logo.jpeg)
