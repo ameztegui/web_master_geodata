@@ -7,7 +7,7 @@ editor_options:
     wrap: 72
 output:
     include:
-      before_body: /images/logo.png
+      before_body: images/logo.png
 ---
 
 
