@@ -7,6 +7,9 @@ editor_options:
     wrap: 72
 ---
 
+![](images/logo.jpeg)
+
+
 ## Información práctica
 
 ### Profesorado
@@ -46,6 +49,6 @@ Algunos ejemplos de bibliografía
 
 |                          |                             |                                       |
 |--------------------------|-----------------------------|---------------------------------------|
-|                          | ![](images/logo_unizar.png){width="140"} |                                       |
-| ![](images/logo_udl.png){width="140"} | ![](images/logo_CREAF.jpg){width="140"}  | ![](images/logo_fic.png){width="140"} |
+|                          | ![](images/logo_unizar.png){width="140px"} |                                       |
+| ![](images/logo_udl.png){width="140px"} | ![](images/logo_CREAF.jpg){width="140px"}  | ![](images/logo_fic.png){width="140px"} |
 |                          |                              |                                       |
