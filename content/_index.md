@@ -47,8 +47,8 @@ Algunos ejemplos de bibliografía
 
 ### Entidades participantes
 
-![](images/logo.png)
-![](images/logo_unizar.png)
-![](images/logo_udl.png)
-![](images/logo_CREAF.jpg)
-![](images/logo_fic.png)
+![](img/logo.png)
+![](img/logo_unizar.png)
+![](img/logo_udl.png)
+![](img/logo_CREAF.jpg)
+![](img/logo_fic.png)
