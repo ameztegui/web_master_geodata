@@ -5,10 +5,10 @@ markup: "mmark"
 editor_options: 
   markdown: 
     wrap: 72
+output:
+    include:
+      before_body: /images/logo.png
 ---
-
-![](images/logo.png)
-
 
 
 ## Información práctica
@@ -47,6 +47,9 @@ Algunos ejemplos de bibliografía
 
 
 ### Entidades participantes
+
+  \
+  \
 
 ![](images/logo_unizar.png)
 
