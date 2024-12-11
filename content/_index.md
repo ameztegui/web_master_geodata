@@ -47,4 +47,4 @@ Algunos ejemplos de bibliografía
 
 ### Entidades participantes
 
-![](images/logo.jpeg)
+![](images/logo.jpg)
