@@ -7,7 +7,7 @@ En este enlace encontrará información general sobre la titulación:
 
 https://sia.unizar.es/cowep/control/consultaEPDetalle?entradaPublica=true&idioma=es.ES&codEp=1957&edicion=1
 
-El curso se desarrollará entre **febrero y junio de 2025**. El periodo de preinscripción ya está abierto hasta el **12 de enero** y el de matricula será del **13 al 26** de enero.
+El curso se desarrollará entre **febrero y junio de 2025**. El periodo de preinscripción ya está abierto hasta el **26 de enero** y el de matricula será del **27 de enero al 9 de febrero**.
 
 ### Proceso de preinscripción
 
