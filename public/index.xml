@@ -1,35 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>111022: Data Management and Visualization with R on Data Management and Visualization with R</title>
+    <title>Diploma de Especialización en Ciencia de datos geográficos</title>
     <link>/</link>
-    <description>Recent content in 111022: Data Management and Visualization with R on Data Management and Visualization with R</description>
+    <description>Recent content on Diploma de Especialización en Ciencia de datos geográficos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>/syllabus/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/syllabus/</guid>
-      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.
-
- Date Lesson Slides Lab Reading AE HW EC Exam Project   Wed, Jan 10 Welcome. Course organization and warm-up           Part 1 Data Management            Unit 1: Introduction           Wed, Jan 10 The data pipeline: from acquisition to communication.</description>
+      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.</description>
     </item>
     
     <item>
-      <title>Policies</title>
-      <link>/policies/</link>
+      <title>Información</title>
+      <link>/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/policies/</guid>
-      <description>Class: Class time is designed to be as interactive as possible. My role as instructor is to introduce you new tools and techniques, but it is up to you to take them and make use of them. Programming is a skill that is best learned by doing, so as much as possible you will be working on a variety of tasks and activities throughout each class.
-Diversity &amp;amp; Inclusiveness: It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students&#39; learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit.</description>
+      <guid>/info/</guid>
+      <description>Contenido del Programa El Diploma de Especialización en Ciencia de datos geográficos está estructurado en 4 módulos:
+Ciencia de datos e información espacial (10 horas): Introducción a la ciencia de datos en el marco de la información geográfica y desde las necesidades, demandas y oportunidades que brinda la Geografía y ciencias afines. Se proporcionan los conceptos básicos sobre la información geográfica y su integración en los proyectos de ciencia de datos, para los que es necesario el manejo de herramientas específicas.</description>
+    </item>
+    
+    <item>
+      <title>Preinscripción</title>
+      <link>/preinscripcion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/preinscripcion/</guid>
+      <description>En este enlace encontrará información general sobre la titulación:
+https://sia.unizar.es/cowep/control/consultaEPDetalle?entradaPublica=true&amp;amp;idioma=es.ES&amp;amp;codEp=1957&amp;amp;edicion=1
+El curso se desarrollará entre febrero y junio de 2025. El periodo de preinscripción ya está abierto hasta el 26 de enero y el de matricula será del 27 de enero al 9 de febrero.
+Proceso de preinscripción La manera de proceder depende de si se ha tenido vinculación previa con la Universidad de Zaragoza o no:
+Aquellas personas que hayan tenido vinculación con la Universidad de Zaragoza y dispongan de NIP y contraseña administrativa pueden inscribirse siguiendo el procedimiento a través de la aplicación</description>
     </item>
     
   </channel>
