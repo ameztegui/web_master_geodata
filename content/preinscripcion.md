@@ -7,8 +7,8 @@ En este enlace encontrará información general sobre la titulación:
 
 https://sia.unizar.es/cowep/control/consultaEPDetalle?entradaPublica=true&idioma=es.ES&codEp=1957&edicion=2
 
-El curso se desarrollará entre el **15 de octubre de 2025 y el 30 de junio de 2026**. El periodo de **preinscripción** ya está abierto desde el 1 de julio hasta el  **30 de septiembre**,
-y el de matricula será del **1 al 14 de octubre de 2025**.
+El curso se desarrollará entre el **5 de octubre de 2026 y el 30 de junio de 2027**. El periodo de **preinscripción** ya está abierto hasta el  **19 de octubre**,
+y el de matricula será del **12 al 19 de octubre de 2026**.
 
 ### Proceso de preinscripción
 
