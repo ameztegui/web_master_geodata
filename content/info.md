@@ -13,7 +13,7 @@ Introducción a la ciencia de datos en el marco de la información geográfica y
 
 #### **Fundamentos de R** (120 horas)
 
-R es un lenguaje de programación enfocado al análisis estadístico, pero la enorme variedad de paquetes de funciones de código abierto, le posibilitan para su uso como un SIG avanzado con el que aplicar funciones de análisis espacial y visualización. En esta asignatura se aportarán los fundamentos básicos del lenguaje para un tratamiento básico de la información geográfica y su visualización. Una parte de la formación en estadística es básica para aplicar correctamente las instrucciones en formato de script.
+R es un lenguaje de programación enfocado al análisis estadístico, pero la enorme variedad de paquetes de código abierto, le posibilitan para su uso como un SIG avanzado con el que aplicar funciones de análisis espacial y visualización. En esta asignatura se aportarán los fundamentos básicos del lenguaje para un tratamiento básico de la información geográfica y su visualización. Una parte de la formación en estadística es básica para aplicar correctamente las instrucciones en formato de script.
 
 #### **Aplicaciones y modelos en entorno R** (160 horas)
 
