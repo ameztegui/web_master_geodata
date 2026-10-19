@@ -7,7 +7,7 @@ Course website and materials for 111022 - Data Management and Visualization with
 Course website is at http://datamanagement.netlify.com
 
 # Citation
-To reference these course materials, please cite as:
+To reference these cdourse materials, please cite as:
 
 Aitor Ameztegui (2022). Data Management and Visualization with R (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3951352
 
